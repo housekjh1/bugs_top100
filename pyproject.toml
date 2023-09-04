@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "bugs_top100"
 version = "1.0.0"
 authors = [
-  { name="Sangkon Han", email="sigmadream@gmail.com" },
+  { name="Jihoon Kim", email="housekjh@gmail.com" },
 ]
 description = "This is a package that allows you to easily import Melon Top100 information. Suitable for training lists and dictionaries."
 readme = "README.md"
@@ -22,5 +22,5 @@ dependencies = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/sigmadream/melon_top100"
-"Bug Tracker" = "https://github.com/sigmadream/melon_top100/issues"
+"Homepage" = "https://github.com/housekjh1/bugs_top100"
+"Bug Tracker" = "https://github.com/housekjh1/bugs_top100/issues"
